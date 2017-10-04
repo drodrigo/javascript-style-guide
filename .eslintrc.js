@@ -27,5 +27,6 @@ module.exports = {
         ignoreRegExpLiterals: true,
       },
     ],
+    'no-use-before-define': ['error', { 'functions': false }],
   },
 }
