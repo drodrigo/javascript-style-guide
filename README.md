@@ -141,3 +141,7 @@ Object.assign(
 
 Avoid having lines of code that are longer than 80 characters (including
 whitespace).
+
+### No use before define
+
+Create an exception for functions that are used before defined.
